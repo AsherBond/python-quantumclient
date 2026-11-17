@@ -1,0 +1,6 @@
+---
+deprecations:
+  - |
+    The “Networking Service Function Chaining” (SFC) commands and client
+    bindings have been removed as the networking-sfc project has been
+    deprecated and removed.
